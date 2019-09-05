@@ -1,0 +1,17 @@
+#
+## Visual Studio
+#
+*.sln       text eol=crlf
+*.csproj    text eol=crlf
+*.cs        diff=csharp
+
+#
+## git config
+#
+.gitignore      text
+.gitattributes  text
+
+#
+## Documentation
+#
+*.md    text
