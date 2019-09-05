@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/atEaE/dotnet-plugin-architecture-example.svg?branch=master)](https://travis-ci.org/atEaE/dotnet-plugin-architecture-example)
 # dotnet-plugin-architecture-example
 
 # About the project
