@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/atEaE/dotnet-plugin-architecture-example.svg?branch=master)](https://travis-ci.org/atEaE/dotnet-plugin-architecture-example)
+[![License](https://img.shields.io/github/license/atEaE/dotnet-plugin-architecture-example)](https://github.com/atEaE/dotnet-plugin-architecture-example/blob/master/LICENSE)
 # dotnet-plugin-architecture-example
 
 # About the project
